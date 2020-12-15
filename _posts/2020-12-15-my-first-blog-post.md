@@ -1,4 +1,4 @@
 ---
-title: lalo
-date: 12-12-12
+title: "lalo"
+date: 2012-12-12
 ---
